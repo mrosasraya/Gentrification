@@ -20,6 +20,14 @@
     3.3. [Notebook 6: ](#n6)
 
     3.4. [Notebook 7: ](#n7)
+  
+4. [Data](#data)
+
+    4.1. [Shapefiles](#shp)
+
+    4.2. [Building Approvals](#ba)
+
+    4.3. [House Prices](#hp)
 
 
 
@@ -56,9 +64,9 @@ The preprocessing of data makes use the following libraries:
 ### Notebook 6:  <a name='n6'></a>
 ### Notebook 7:  <a name='n7'></a>
 
-## Data
+## Data <a name='data'></a>
 
-### Shapefiles
+### Shapefiles <a name='shp'></a>
 
 | Data | File Name | Source | Last update |  
 | ---- | -------- | ------- | ----------- | 
@@ -70,7 +78,7 @@ The preprocessing of data makes use the following libraries:
 | Polygons shapefile Collection Didtrict | Collection District Digital Boundaries, Victoria (ASGC 2006) in ESRI Shapefile Format  | ABS | 06/12/2011 |
 
 
-### Building Approvals
+### Building Approvals <a name='ba'></a>
 
 
 | Data | File Name | Source | Last update |
@@ -87,7 +95,7 @@ The preprocessing of data makes use the following libraries:
 | Building Approvals, Australia, Jun 2015 | Vic., SA2 Excel datacube, 2014-2015 FYTD  | ABS | 30/07/2015 |
 | Building Approvals, Australia, Jun 2016 | Vic., LGA Excel datacube, 2015-2016| ABS | 08/08/2016 |
 
-### House Prices in Melbourne
+### House Prices in Melbourne <a name='hp'></a>
 
 Note: only dataset that is not available for public access.
 
