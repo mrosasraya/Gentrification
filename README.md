@@ -13,13 +13,13 @@
 
 3. [Preprocessing](#prep)
 
-    3.1. [Notebook 4: ](#n4)
+    3.1. [Notebook 4: Trim_Shapefiles](#n4)
 
-    3.2. [Notebook 5: ](#n5)
+    3.2. [Notebook 5: Areal_Interpolation](#n5)
 
-    3.3. [Notebook 6: ](#n6)
+    3.3. [Notebook 6: Network_Properties](#n6)
 
-    3.4. [Notebook 7: ](#n7)
+    3.4. [Notebook 7: Data_Assembly](#n7)
   
 4. [Data](#data)
 
@@ -59,12 +59,26 @@ The preprocessing of data makes use the following libraries:
 
 ## Data Pre-Processing <a name='prep'></a>
 
-### Notebook 4:  <a name='n4'></a>
-### Notebook 5:  <a name='n5'></a>
-### Notebook 6:  <a name='n6'></a>
-### Notebook 7:  <a name='n7'></a>
+### Notebook 4: Trim_Shapefiles  <a name='n4'></a>
+
+Notebook used to mimic the common tool to crop a shapefile given a certain field in an attribute table. Here the attirbute table is an external relational database. This notebook was primarly used to isolate Greater Melbourne from the rest of the country's shapefile.
+
+### Notebook 5: Areal_Interpolation  <a name='n5'></a>
+
+This notebook uses area-based areal interpolation from the library Tobler. It was used to interpolate from 2006 CCD and 2011 SA1s to 2016 SA1s. The file is divided in two sections: one for the interpolation of one single feature and a second section for the interpolation with a database built wiht the location of all the census fields interpolated in this project.
+
+
+### Notebook 6: Network_Properties <a name='n6'></a>
+
+In this notebook the train and traim systems are represented as unidirectional graphs using NetworkX. Each train station and tram stop is associated with a value of Degree centrality, Betweenness centrality and closeness centrality. Subsequently, the properties are associated to each census tract thorugh a distance-based decay function. The distance between the tracts and the stations are calculated as straight lines according to the state policies.
+
+### Notebook 7:  Data_Assembly <a name='n7'></a>
+
+This notebook was created put together all the fields that necessary to train a machine learning model into a single dataset. The training labels were obtained following Freeman's 5-step definition of gentrified areas.
 
 ## Data <a name='data'></a>
+
+Here are the databases sourced from public and private means in order to conduct the present research. 
 
 ### Shapefiles <a name='shp'></a>
 
