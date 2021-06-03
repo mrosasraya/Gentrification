@@ -59,25 +59,16 @@ The preprocessing of data makes use the following libraries:
 ## Data
 
 ### Shapefiles
-%%latex
-\begin{tabular}{|| m{4cm} | m{6cm} | m{1cm} | m{2cm} ||}
-     \hline
-     Data & File Name & Source & Last update\\  
-     \hline\hline
-     Polygons shapefile SA1 2016 & Statistical Area Level 1 (SA1) ASGS Ed 2016 Digital Boundaries in ESRI Shapefile Format & ABS & 12/07/2016\\
-     \hline
-     Polygons shapefile SA2 2016 & Statistical Area Level 2 (SA2) ASGS Ed 2016 Digital Boundaries in ESRI Shapefile Format & ABS & 12/07/2016\\
-     \hline
-     Polygons shapefile SA1 2011 & Statistical Area Level 1 (SA1) ASGS Ed 2011 Digital Boundaries in ESRI Shapefile Format & ABS & 23/12/2010\\
-     \hline
-     Polygons shapefile SA2 2011 & Statistical Area Level 2 (SA2) ASGS Ed 2011 Digital Boundaries in ESRI Shapefile Format & ABS & 23/12/2010\\
-    \hline
-    Polygons shapefile SLA & Statistical Local Areas ASGC Ed 2011 Digital Boundaries in ESRI Shapefile Format  & ABS & 14/07/2011\\
-    \hline
-     Polygons shapefile Collection Didtrict & 
-     Collection District Digital Boundaries, Victoria (ASGC 2006) in ESRI Shapefile Format  & ABS & 06/12/2011\\
-     \hline
-\end{tabular}
+
+     | Data | File Name | Source | Last update |  
+     | ---- | -------- | ------- | ----------- | 
+    | Polygons shapefile SA1 2016 | Statistical Area Level 1 (SA1) ASGS Ed 2016 Digital Boundaries in ESRI Shapefile Format | ABS | 12/07/2016 |
+    | Polygons shapefile SA2 2016 | Statistical Area Level 2 (SA2) ASGS Ed 2016 Digital Boundaries in ESRI Shapefile Format | ABS | 12/07/2016 |
+    | Polygons shapefile SA1 2011 | Statistical Area Level 1 (SA1) ASGS Ed 2011 Digital Boundaries in ESRI Shapefile Format | ABS | 23/12/2010 |
+    | Polygons shapefile SA2 2011 | Statistical Area Level 2 (SA2) ASGS Ed 2011 Digital Boundaries in ESRI Shapefile Format | ABS | 23/12/2010 |
+    | Polygons shapefile SLA | Statistical Local Areas ASGC Ed 2011 Digital Boundaries in ESRI Shapefile Format  | ABS | 14/07/2011 |
+    | Polygons shapefile Collection Didtrict | Collection District Digital Boundaries, Victoria (ASGC 2006) in ESRI Shapefile Format  | ABS & 06/12/2011 |
+
 
 ### Building Approvals
 
