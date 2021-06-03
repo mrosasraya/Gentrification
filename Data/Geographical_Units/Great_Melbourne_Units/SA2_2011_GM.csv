@@ -1,0 +1,282 @@
+SA2_MAINCODE_2011,SA2_NAME_2011,SA2_5DIGITCODE_2011,SA3_CODE_2011,SA3_NAME_2011,SA4_CODE_2011,SA4_NAME_2011,GCCSA_CODE_2011,GCCSA_NAME_2011,STATE_CODE_2011,STATE_NAME_2011,AREA_ALBERS_SQM
+206011105,Brunswick,21105,20601,Brunswick - Coburg,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,5142469.999
+206011106,Brunswick East,21106,20601,Brunswick - Coburg,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2168041.951
+206011107,Brunswick West,21107,20601,Brunswick - Coburg,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,3179281.678
+206011108,Coburg,21108,20601,Brunswick - Coburg,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,6933716.816
+206011109,Pascoe Vale South,21109,20601,Brunswick - Coburg,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2989804.922
+206021110,Alphington - Fairfield,21110,20602,Darebin - South,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2885117.964
+206021111,Northcote,21111,20602,Darebin - South,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,6145080.912
+206021112,Thornbury,21112,20602,Darebin - South,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,4997102.988
+206031113,Ascot Vale,21113,20603,Essendon,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,3835908.918
+206031114,Essendon - Aberfeldie,21114,20603,Essendon,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,8441810.864
+206031115,Flemington,21115,20603,Essendon,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,1580799.139
+206031116,Moonee Ponds,21116,20603,Essendon,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,4355399.746
+206041117,Carlton,21117,20604,Melbourne City,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,1818232.663
+206041118,Docklands,21118,20604,Melbourne City,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,3001915.909
+206041119,East Melbourne,21119,20604,Melbourne City,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2899761.753
+206041120,Flemington Racecourse,21120,20604,Melbourne City,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,1709373.456
+206041121,Kensington,21121,20604,Melbourne City,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2146993.603
+206041122,Melbourne,21122,20604,Melbourne City,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2368644.61
+206041123,North Melbourne,21123,20604,Melbourne City,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,3249865.637
+206041124,Parkville,21124,20604,Melbourne City,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,4048695.455
+206041125,South Yarra - West,21125,20604,Melbourne City,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,1502259.735
+206041126,Southbank,21126,20604,Melbourne City,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,3071044.598
+206041127,West Melbourne,21127,20604,Melbourne City,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,5732006.879
+206051128,Albert Park,21128,20605,Port Phillip,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,4675503.401
+206051129,Elwood,21129,20605,Port Phillip,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2553575.671
+206051130,Port Melbourne,21130,20605,Port Phillip,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2782103.577
+206051131,Port Melbourne Industrial,21131,20605,Port Phillip,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,6787321.793
+206051132,South Melbourne,21132,20605,Port Phillip,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2496003.228
+206051133,St Kilda,21133,20605,Port Phillip,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,3901440.004
+206051134,St Kilda East,21134,20605,Port Phillip,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2413234.919
+206061135,Armadale,21135,20606,Stonnington - West,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2182900.409
+206061136,Prahran - Windsor,21136,20606,Stonnington - West,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2904594.075
+206061137,South Yarra - East,21137,20606,Stonnington - West,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2517479.345
+206061138,Toorak,21138,20606,Stonnington - West,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,4319144.767
+206071139,Abbotsford,21139,20607,Yarra,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,1740690.754
+206071140,Carlton North - Princes Hill,21140,20607,Yarra,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2304113.7
+206071141,Collingwood,21141,20607,Yarra,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,1267039.456
+206071142,Fitzroy,21142,20607,Yarra,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,1377488.001
+206071143,Fitzroy North,21143,20607,Yarra,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,2504862.277
+206071144,Richmond (Vic.),21144,20607,Yarra,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,6212358.835
+206071145,Yarra - North,21145,20607,Yarra,206,Melbourne - Inner,2GMEL,Greater Melbourne,2,Victoria,5208784.825
+207011146,Ashburton (Vic.),21146,20701,Boroondara,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,2854817.86
+207011147,Balwyn,21147,20701,Boroondara,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,5585510.846
+207011148,Balwyn North,21148,20701,Boroondara,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,8849034.594
+207011149,Camberwell,21149,20701,Boroondara,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,7291566.484
+207011150,Glen Iris - East,21150,20701,Boroondara,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,5686922.906
+207011151,Hawthorn,21151,20701,Boroondara,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,5674800.105
+207011152,Hawthorn East,21152,20701,Boroondara,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,3825039.331
+207011153,Kew,21153,20701,Boroondara,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,10533250.53
+207011154,Kew East,21154,20701,Boroondara,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,4015648.26
+207011155,Surrey Hills (West) - Canterbury,21155,20701,Boroondara,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,5702580.675
+207021156,Bulleen,21156,20702,Manningham - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,6671084.058
+207021157,Doncaster,21157,20702,Manningham - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,8774365.131
+207021158,Doncaster East,21158,20702,Manningham - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,11171984.04
+207021159,Templestowe,21159,20702,Manningham - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,16117236.64
+207021160,Templestowe Lower,21160,20702,Manningham - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,5938192.63
+207031161,Blackburn,21161,20703,Whitehorse - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,8607183.87
+207031162,Blackburn South,21162,20703,Whitehorse - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,3596733.056
+207031163,Box Hill,21163,20703,Whitehorse - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,7012380.416
+207031164,Box Hill North,21164,20703,Whitehorse - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,6208363.638
+207031165,Burwood,21165,20703,Whitehorse - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,5039198.895
+207031166,Burwood East,21166,20703,Whitehorse - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,4262350.459
+207031167,Surrey Hills (East) - Mont Albert,21167,20703,Whitehorse - West,207,Melbourne - Inner East,2GMEL,Greater Melbourne,2,Victoria,3327952.117
+208011168,Beaumaris,21168,20801,Bayside,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,5967998.741
+208011169,Brighton (Vic.),21169,20801,Bayside,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,8200495.86
+208011170,Brighton East,21170,20801,Bayside,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,5607861.494
+208011171,Cheltenham - Highett (West),21171,20801,Bayside,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,5319563.046
+208011172,Hampton,21172,20801,Bayside,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,5685143.527
+208011173,Sandringham - Black Rock,21173,20801,Bayside,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,6429836.464
+208021174,Bentleigh - McKinnon,21174,20802,Glen Eira,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,6224685.232
+208021175,Bentleigh East,21175,20802,Glen Eira,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,9187105.961
+208021176,Carnegie,21176,20802,Glen Eira,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,3804657.494
+208021177,Caulfield - North,21177,20802,Glen Eira,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,6419201.208
+208021178,Caulfield - South,21178,20802,Glen Eira,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,4742288.993
+208021179,Elsternwick,21179,20802,Glen Eira,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,2861748.758
+208021180,Hughesdale,21180,20802,Glen Eira,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,2009681.194
+208021181,Murrumbeena,21181,20802,Glen Eira,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,2514777.272
+208021182,Ormond - Glen Huntly,21182,20802,Glen Eira,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,2936924.806
+208031183,Aspendale Gardens - Waterways,21183,20803,Kingston,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,5307110.663
+208031184,Braeside,21184,20803,Kingston,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,9081956.98
+208031185,Carrum - Patterson Lakes,21185,20803,Kingston,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,5824930.275
+208031186,Chelsea - Bonbeach,21186,20803,Kingston,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,5423060.056
+208031187,Chelsea Heights,21187,20803,Kingston,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,3195474.236
+208031188,Cheltenham - Highett (East),21188,20803,Kingston,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,8736859.944
+208031189,Edithvale - Aspendale,21189,20803,Kingston,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,5100410.631
+208031190,Mentone,21190,20803,Kingston,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,4449583.371
+208031191,Moorabbin - Heatherton,21191,20803,Kingston,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,11699683.8
+208031192,Moorabbin Airport,21192,20803,Kingston,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,3075571.037
+208031193,Mordialloc - Parkdale,21193,20803,Kingston,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,7967882.985
+208041194,Malvern - Glen Iris,21194,20804,Stonnington - East,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,6156777.585
+208041195,Malvern East,21195,20804,Stonnington - East,208,Melbourne - Inner South,2GMEL,Greater Melbourne,2,Victoria,7567914.803
+209011196,Bundoora - East,21196,20901,Banyule,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,4075082.34
+209011197,Greensborough,21197,20901,Banyule,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,10097083.92
+209011198,Heidelberg - Rosanna,21198,20901,Banyule,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,6371997.862
+209011199,Heidelberg West,21199,20901,Banyule,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,6691113.743
+209011200,Ivanhoe,21200,20901,Banyule,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,5050326.731
+209011201,Ivanhoe East - Eaglemont,21201,20901,Banyule,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,4277669.961
+209011202,Montmorency - Briar Hill,21202,20901,Banyule,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,12027782.19
+209011203,Viewbank - Yallambie,21203,20901,Banyule,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,10238573.14
+209011204,Watsonia,21204,20901,Banyule,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,3785595.729
+209021205,Kingsbury,21205,20902,Darebin - North,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,9009092.007
+209021206,Preston,21206,20902,Darebin - North,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,11312732.84
+209021207,Reservoir - East,21207,20902,Darebin - North,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,8966624.337
+209021208,Reservoir - West,21208,20902,Darebin - North,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,10155327.94
+209031209,Eltham,21209,20903,Nillumbik - Kinglake,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,19487474.92
+209031210,Hurstbridge,21210,20903,Nillumbik - Kinglake,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,14841898.55
+209031211,Kinglake,21211,20903,Nillumbik - Kinglake,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,319504410.4
+209031212,Panton Hill - St Andrews,21212,20903,Nillumbik - Kinglake,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,292198115
+209031213,Plenty - Yarrambat,21213,20903,Nillumbik - Kinglake,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,29117040.11
+209031214,Research - North Warrandyte,21214,20903,Nillumbik - Kinglake,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,49795034.77
+209031215,Wattle Glen - Diamond Creek,21215,20903,Nillumbik - Kinglake,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,26824588.5
+209041216,Bundoora - North,21216,20904,Whittlesea - Wallan,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,4714462.928
+209041217,Bundoora - West,21217,20904,Whittlesea - Wallan,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,2560757.054
+209041218,Epping,21218,20904,Whittlesea - Wallan,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,84889732.1
+209041219,Lalor,21219,20904,Whittlesea - Wallan,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,12064192.11
+209041220,Mill Park - North,21220,20904,Whittlesea - Wallan,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,8135829.285
+209041221,Mill Park - South,21221,20904,Whittlesea - Wallan,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,4925843.497
+209041222,South Morang,21222,20904,Whittlesea - Wallan,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,59738580.51
+209041223,Thomastown,21223,20904,Whittlesea - Wallan,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,14684246.44
+209041224,Wallan,21224,20904,Whittlesea - Wallan,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,507741241.8
+209041225,Whittlesea,21225,20904,Whittlesea - Wallan,209,Melbourne - North East,2GMEL,Greater Melbourne,2,Victoria,297992644.8
+210011226,Airport West,21226,21001,Keilor,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,3719782.463
+210011227,Essendon Airport,21227,21001,Keilor,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,3354922.386
+210011228,Keilor,21228,21001,Keilor,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,17512277.47
+210011229,Keilor East,21229,21001,Keilor,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,10891930.32
+210011230,Niddrie - Essendon West,21230,21001,Keilor,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,2803003.661
+210011231,Strathmore,21231,21001,Keilor,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,4144638.282
+210021232,Gisborne,21232,21002,Macedon Ranges,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,211049401.1
+210021233,Macedon,21233,21002,Macedon Ranges,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,72990951.57
+210021234,Riddells Creek,21234,21002,Macedon Ranges,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,83349554.61
+210021235,Romsey,21235,21002,Macedon Ranges,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,624709338.1
+210031236,Coburg North,21236,21003,Moreland - North,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,4878197.294
+210031237,Fawkner,21237,21003,Moreland - North,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,5084927.468
+210031238,Glenroy - Hadfield,21238,21003,Moreland - North,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,13431668.42
+210031239,Pascoe Vale,21239,21003,Moreland - North,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,6983724.941
+210041240,Sunbury,21240,21004,Sunbury,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,129548527.9
+210041241,Sunbury - South,21241,21004,Sunbury,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,131135781.5
+210051242,Broadmeadows,21242,21005,Tullamarine - Broadmeadows,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,8826688.684
+210051243,Campbellfield - Coolaroo,21243,21005,Tullamarine - Broadmeadows,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,18186630.92
+210051244,Craigieburn - Mickleham,21244,21005,Tullamarine - Broadmeadows,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,106071514.5
+210051245,Gladstone Park - Westmeadows,21245,21005,Tullamarine - Broadmeadows,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,13936990.42
+210051246,Greenvale - Bulla,21246,21005,Tullamarine - Broadmeadows,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,95815075.47
+210051247,Meadow Heights,21247,21005,Tullamarine - Broadmeadows,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,4625291.331
+210051248,Melbourne Airport,21248,21005,Tullamarine - Broadmeadows,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,30384868.28
+210051249,Roxburgh Park - Somerton,21249,21005,Tullamarine - Broadmeadows,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,12381369.84
+210051250,Tullamarine,21250,21005,Tullamarine - Broadmeadows,210,Melbourne - North West,2GMEL,Greater Melbourne,2,Victoria,3859572.022
+211011251,Bayswater,21251,21101,Knox,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,8043669.218
+211011252,Boronia - The Basin,21252,21101,Knox,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,16979606.94
+211011253,Ferntree Gully,21253,21101,Knox,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,16198744.63
+211011254,Knoxfield - Scoresby,21254,21101,Knox,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,15184179.87
+211011255,Lysterfield,21255,21101,Knox,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,18493746.98
+211011256,Rowville - Central,21256,21101,Knox,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,8200350.358
+211011257,Rowville - North,21257,21101,Knox,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,4168493.564
+211011258,Rowville - South,21258,21101,Knox,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,9279162.99
+211011259,Wantirna,21259,21101,Knox,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,8306345.834
+211011260,Wantirna South,21260,21101,Knox,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,13361627.05
+211021261,Donvale - Park Orchards,21261,21102,Manningham - East,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,20802671.25
+211021262,Warrandyte - Wonga Park,21262,21102,Manningham - East,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,45759323.45
+211031263,Bayswater North,21263,21103,Maroondah,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,9909335.289
+211031264,Croydon,21264,21103,Maroondah,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,17747009.95
+211031265,Croydon Hills - Warranwood,21265,21103,Maroondah,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,9492288.478
+211031266,Ringwood,21266,21103,Maroondah,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,9916130.928
+211031267,Ringwood East,21267,21103,Maroondah,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,9393292.117
+211031268,Ringwood North,21268,21103,Maroondah,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,4730897.274
+211041269,Forest Hill,21269,21104,Whitehorse - East,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,4070519.298
+211041270,Mitcham (Vic.),21270,21104,Whitehorse - East,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,6627041.085
+211041271,Nunawading,21271,21104,Whitehorse - East,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,5078212.063
+211041272,Vermont,21272,21104,Whitehorse - East,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,4609475.984
+211041273,Vermont South,21273,21104,Whitehorse - East,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,6183987.251
+211051274,Belgrave - Selby,21274,21105,Yarra Ranges,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,55634851.59
+211051275,Chirnside Park,21275,21105,Yarra Ranges,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,22202661.83
+211051276,Healesville - Yarra Glen,21276,21105,Yarra Ranges,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,369524248.5
+211051277,Kilsyth,21277,21105,Yarra Ranges,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,8242155.634
+211051278,Lilydale - Coldstream,21278,21105,Yarra Ranges,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,109381533.2
+211051279,Monbulk - Silvan,21279,21105,Yarra Ranges,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,68555424.07
+211051280,Montrose,21280,21105,Yarra Ranges,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,10543235.1
+211051281,Mooroolbark,21281,21105,Yarra Ranges,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,12543903.74
+211051282,Mount Dandenong - Olinda,21282,21105,Yarra Ranges,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,81899679.38
+211051283,Mount Evelyn,21283,21105,Yarra Ranges,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,16989761.82
+211051284,Upwey - Tecoma,21284,21105,Yarra Ranges,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,8891215.409
+211051285,Wandin - Seville,21285,21105,Yarra Ranges,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,111734673.9
+211051286,Yarra Valley,21286,21105,Yarra Ranges,211,Melbourne - Outer East,2GMEL,Greater Melbourne,2,Victoria,728800758.6
+212011287,Beaconsfield - Officer,21287,21201,Cardinia,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,41723923.56
+212011288,Bunyip - Garfield,21288,21201,Cardinia,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,373110815.1
+212011289,Emerald - Cockatoo,21289,21201,Cardinia,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,370683839.8
+212011290,Koo Wee Rup,21290,21201,Cardinia,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,409434812.8
+212011291,Pakenham - North,21291,21201,Cardinia,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,36725846.62
+212011292,Pakenham - South,21292,21201,Cardinia,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,49758374.83
+212021293,Berwick - North,21293,21202,Casey - North,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,19732044.97
+212021294,Berwick - South,21294,21202,Casey - North,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,14853749.62
+212021295,Doveton,21295,21202,Casey - North,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,5206852.106
+212021296,Endeavour Hills,21296,21202,Casey - North,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,20058926.32
+212021297,Hallam,21297,21202,Casey - North,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,8055451.635
+212021298,Narre Warren,21298,21202,Casey - North,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,14177099.08
+212021299,Narre Warren North,21299,21202,Casey - North,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,34387675.73
+212031300,Cranbourne,21300,21203,Casey - South,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,13026629.3
+212031301,Cranbourne East,21301,21203,Casey - South,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,42889195.45
+212031302,Cranbourne North,21302,21203,Casey - South,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,10239527.92
+212031303,Cranbourne South,21303,21203,Casey - South,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,81662322.36
+212031304,Cranbourne West,21304,21203,Casey - South,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,12898208.88
+212031305,Hampton Park - Lynbrook,21305,21203,Casey - South,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,13335865.5
+212031306,Lynbrook - Lyndhurst,21306,21203,Casey - South,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,7379610.671
+212031307,Narre Warren South,21307,21203,Casey - South,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,13003176.75
+212031308,Pearcedale - Tooradin,21308,21203,Casey - South,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,98511197.77
+212041309,Clarinda - Oakleigh South,21309,21204,Dandenong,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,6322751.633
+212041310,Clayton South,21310,21204,Dandenong,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,7938549.055
+212041311,Dandenong,21311,21204,Dandenong,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,61795584.35
+212041312,Dandenong North,21312,21204,Dandenong,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,9535355.134
+212041313,Dingley Village,21313,21204,Dandenong,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,7243484.406
+212041314,Keysborough,21314,21204,Dandenong,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,30279765.75
+212041315,Noble Park,21315,21204,Dandenong,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,8561441.31
+212041316,Noble Park North,21316,21204,Dandenong,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,3757857.504
+212041317,Springvale,21317,21204,Dandenong,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,11105780.13
+212041318,Springvale South,21318,21204,Dandenong,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,4559806.203
+212051319,Ashwood - Chadstone,21319,21205,Monash,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,6709546.388
+212051320,Clayton,21320,21205,Monash,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,9411216.368
+212051321,Glen Waverley - East,21321,21205,Monash,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,9163846.139
+212051322,Glen Waverley - West,21322,21205,Monash,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,7675606.295
+212051323,Mount Waverley - North,21323,21205,Monash,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,6484132.346
+212051324,Mount Waverley - South,21324,21205,Monash,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,8700772.508
+212051325,Mulgrave,21325,21205,Monash,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,10722055.83
+212051326,Oakleigh - Huntingdale,21326,21205,Monash,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,10169604.56
+212051327,Wheelers Hill,21327,21205,Monash,212,Melbourne - South East,2GMEL,Greater Melbourne,2,Victoria,10450850.09
+213011328,Ardeer - Albion,21328,21301,Brimbank,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,4588277.318
+213011329,Cairnlea,21329,21301,Brimbank,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,4404986.678
+213011330,Deer Park - Derrimut,21330,21301,Brimbank,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,21336140.35
+213011331,Delahey,21331,21301,Brimbank,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,3505506.635
+213011332,Keilor Downs,21332,21301,Brimbank,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,7659809.639
+213011333,Kings Park (Vic.),21333,21301,Brimbank,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,4432047.58
+213011334,St Albans - North,21334,21301,Brimbank,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,6522270.953
+213011335,St Albans - South,21335,21301,Brimbank,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,6265224.571
+213011336,Sunshine,21336,21301,Brimbank,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,4731858.4
+213011337,Sunshine North,21337,21301,Brimbank,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,8022928.529
+213011338,Sunshine West,21338,21301,Brimbank,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,12969022.72
+213011339,Sydenham,21339,21301,Brimbank,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,3948304.956
+213011340,Taylors Lakes,21340,21301,Brimbank,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,18462925.27
+213021341,Altona,21341,21302,Hobsons Bay,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,17684841.44
+213021342,Altona Meadows,21342,21302,Hobsons Bay,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,10540087.58
+213021343,Altona North,21343,21302,Hobsons Bay,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,16184342.49
+213021344,Newport,21344,21302,Hobsons Bay,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,8840058.286
+213021345,Seabrook,21345,21302,Hobsons Bay,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,1619894.946
+213021346,Williamstown,21346,21302,Hobsons Bay,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,7346924.857
+213031347,Braybrook,21347,21303,Maribyrnong,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,7483014.512
+213031348,Footscray,21348,21303,Maribyrnong,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,4967185.113
+213031349,Maribyrnong,21349,21303,Maribyrnong,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,5495089.676
+213031350,Seddon - Kingsville,21350,21303,Maribyrnong,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,1680071.789
+213031351,West Footscray - Tottenham,21351,21303,Maribyrnong,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,5981010.515
+213031352,Yarraville,21352,21303,Maribyrnong,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,5620441.176
+213041353,Bacchus Marsh,21353,21304,Melton - Bacchus Marsh,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,196322918.9
+213041354,Caroline Springs,21354,21304,Melton - Bacchus Marsh,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,11492926.17
+213041355,Hillside,21355,21304,Melton - Bacchus Marsh,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,66546545.4
+213041356,Melton,21356,21304,Melton - Bacchus Marsh,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,130712149.1
+213041357,Melton South,21357,21304,Melton - Bacchus Marsh,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,110962669.6
+213041358,Melton West,21358,21304,Melton - Bacchus Marsh,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,24202243.33
+213041359,Rockbank - Mount Cottrell,21359,21304,Melton - Bacchus Marsh,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,125758648.7
+213041360,Taylors Hill,21360,21304,Melton - Bacchus Marsh,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,5976597.677
+213051361,Hoppers Crossing - North,21361,21305,Wyndham,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,11088273.02
+213051362,Hoppers Crossing - South,21362,21305,Wyndham,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,7010861.207
+213051363,Laverton,21363,21305,Wyndham,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,22244655.27
+213051364,Point Cook,21364,21305,Wyndham,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,36948729.09
+213051365,Tarneit,21365,21305,Wyndham,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,62121630.26
+213051366,Truganina,21366,21305,Wyndham,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,27010276.53
+213051367,Werribee,21367,21305,Wyndham,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,135421114.2
+213051368,Werribee - South,21368,21305,Wyndham,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,114033442.2
+213051369,Wyndham Vale,21369,21305,Wyndham,213,Melbourne - West,2GMEL,Greater Melbourne,2,Victoria,128239646
+214011370,Carrum Downs,21370,21401,Frankston,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,20307762.6
+214011371,Frankston,21371,21401,Frankston,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,11625012.33
+214011372,Frankston North,21372,21401,Frankston,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,13238523.93
+214011373,Frankston South,21373,21401,Frankston,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,14560524.47
+214011374,Langwarrin,21374,21401,Frankston,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,37619623.21
+214011375,Seaford (Vic.),21375,21401,Frankston,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,12431711.59
+214011376,Skye - Sandhurst,21376,21401,Frankston,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,19815405.31
+214021377,Dromana,21377,21402,Mornington Peninsula,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,45058097.29
+214021378,Flinders,21378,21402,Mornington Peninsula,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,287417069.2
+214021379,Hastings - Somers,21379,21402,Mornington Peninsula,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,108885139.9
+214021380,Mornington,21380,21402,Mornington Peninsula,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,21089872.96
+214021381,Mount Eliza,21381,21402,Mornington Peninsula,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,23210010.67
+214021382,Mount Martha,21382,21402,Mornington Peninsula,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,30192490.24
+214021383,Point Nepean,21383,21402,Mornington Peninsula,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,67172857.89
+214021384,Rosebud - McCrae,21384,21402,Mornington Peninsula,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,23688274.12
+214021385,Somerville,21385,21402,Mornington Peninsula,214,Mornington Peninsula,2GMEL,Greater Melbourne,2,Victoria,117352958.6
