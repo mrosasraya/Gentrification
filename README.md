@@ -5,11 +5,11 @@
 
 2. [Main procedures](#main)
 
-    2.1 [Notebook 1: ](#n1)
+    2.1 [Notebook 1: Machine_Learning_Models](#n1)
 
-    2.2 [Notebook 2: ](#n2)
+    2.2 [Notebook 2: Deep_Learning_Models](#n2)
 
-    2.3 [Notebook 3: ](#n3)
+    2.3 [Notebook 3: Hypotheses](#n3)
 
 3. [Preprocessing](#prep)
 
@@ -53,9 +53,17 @@ The preprocessing of data makes use the following libraries:
 
 ## Main Procedures <a name='main'></a>
 
-### Notebook 1:  <a name='n1'></a>
-### Notebook 2:  <a name='n2'></a>
-### Notebook 3:  <a name='n3'></a>
+### Notebook 1: Machine_Learning_Models <a name='n1'></a>
+
+This notebook was created to test the performance of the baseline model (Logistic Regression) and other off-the-shelf Machine Learning models that run with CPU. The training labels were obtained following Freeman's 5-step definition of gentrified areas. The evaluation process is centered around Recall. In order to do wo while preventing the models from predicting all instances as positive, the main metric is F2 with recall being twice as aimportant as precision.
+
+### Notebook 2: Deep_Learning_Models <a name='n2'></a>
+
+This noteboke containes the Feed-Forward Neural Networks (FFNN) used to model a binary classification problem about transit-induced gentrification in Melbourne. There are two gentrification periods to be analysed: 2006-2016 and 2011-2016. The training labels were obtained following Freeman's 5-step definition of gentrified areas. The evaluation process is centered around Recall. In order to do wo while preventing the models from predicting all instances as positive, the main metric is F2 with recall being twice as aimportant as precision.
+
+### Notebook 3: Hypotheses <a name='n3'></a>
+
+This notebbok focuses in the analytical proof to sustain the claims made in the abstract. Basically there are 4 statements to be proved: deep learning model as best performing model, relevane of topological features, transit-induced gentrification and fingerprint of stages before gentrification.
 
 ## Data Pre-Processing <a name='prep'></a>
 
@@ -74,7 +82,7 @@ In this notebook the train and traim systems are represented as unidirectional g
 
 ### Notebook 7:  Data_Assembly <a name='n7'></a>
 
-This notebook was created put together all the fields that necessary to train a machine learning model into a single dataset. The training labels were obtained following Freeman's 5-step definition of gentrified areas.
+This notebook was created put together all the fields that necessary to train a machine learning model into a single dataset. This applie to both definitions of gentrification: 2006-2016 and 2011-2016. The training labels were obtained following Freeman's 5-step definition of gentrified areas.
 
 ## Data <a name='data'></a>
 
