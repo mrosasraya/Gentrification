@@ -56,3 +56,68 @@ The preprocessing of data makes use the following libraries:
 ### Notebook 6:  <a name='n6'></a>
 ### Notebook 7:  <a name='n7'></a>
 
+## Data
+
+### Shapefiles
+%%latex
+\begin{tabular}{|| m{4cm} | m{6cm} | m{1cm} | m{2cm} ||}
+     \hline
+     Data & File Name & Source & Last update\\  
+     \hline\hline
+     Polygons shapefile SA1 2016 & Statistical Area Level 1 (SA1) ASGS Ed 2016 Digital Boundaries in ESRI Shapefile Format & ABS & 12/07/2016\\
+     \hline
+     Polygons shapefile SA2 2016 & Statistical Area Level 2 (SA2) ASGS Ed 2016 Digital Boundaries in ESRI Shapefile Format & ABS & 12/07/2016\\
+     \hline
+     Polygons shapefile SA1 2011 & Statistical Area Level 1 (SA1) ASGS Ed 2011 Digital Boundaries in ESRI Shapefile Format & ABS & 23/12/2010\\
+     \hline
+     Polygons shapefile SA2 2011 & Statistical Area Level 2 (SA2) ASGS Ed 2011 Digital Boundaries in ESRI Shapefile Format & ABS & 23/12/2010\\
+    \hline
+    Polygons shapefile SLA & Statistical Local Areas ASGC Ed 2011 Digital Boundaries in ESRI Shapefile Format  & ABS & 14/07/2011\\
+    \hline
+     Polygons shapefile Collection Didtrict & 
+     Collection District Digital Boundaries, Victoria (ASGC 2006) in ESRI Shapefile Format  & ABS & 06/12/2011\\
+     \hline
+\end{tabular}
+
+### Building Approvals
+
+%%latex
+\begin{tabular}{|| m{5cm} | m{5cm} | m{1cm} | m{2cm} ||}
+     \hline
+     Data & File Name & Source & Last update\\  
+     \hline\hline
+     Building Approvals, Australia, Jun 2006  & Statistical Local Areas: Victoria, 2005-06 & ABS & 31/07/2007 \\
+     \hline
+     Building Approvals, Australia, Jun 2007 & Statistical Local Areas: Victoria, 2006-07 & ABS & 31/07/2007\\
+     \hline
+     Building Approvals, Australia, Jun 2008 & Vic, SLA Excel datacube, 2007-2008  & ABS  & 30/07/2008\\
+     \hline
+     Building Approvals, Australia, Jun 2009 & Statistical Local Areas: Victoria, 2008-09 & ABS & 02/08/2011\\ 
+     \hline
+     Building Approvals, Australia, Jun 20010 & Statistical Local Areas: Victoria, 2009-10 & ABS & 02/08/2011\\ 
+     \hline 
+     Building Approvals, Australia, Jun 2011 & Statistical Local Areas: Victoria, 2010-11 & ABS & 02/08/2011\\
+     \hline
+     Building Approvals, Australia, Jun 2012 & VIC, SA2 Excel datacube 2011-2012 & ABS & 30/07/2013\\ 
+     \hline
+     Building Approvals, Australia, Jun 2013 & VIC, SA2 Excel datacube 2012-2013 & ABS & 30/07/2013\\ 
+     \hline
+     Building Approvals, Australia, Jun 2014 & Vic., SA2 Excel datacube, 2013-2014  & ABS & 30/07/2015\\
+     \hline
+     Building Approvals, Australia, Jun 2015 & Vic., SA2 Excel datacube, 2014-2015 FYTD  & ABS & 30/07/2015\\ 
+     \hline
+     Building Approvals, Australia, Jun 2016 & Vic., LGA Excel datacube, 2015-2016 & ABS & 08/08/2016\\
+\hline
+\end{tabular}
+
+### House Prices in Melbourne
+
+%%latex
+\begin{tabular}{|| m{5cm} | m{5cm} | m{1cm} | m{2cm} ||}
+     \hline
+     Data & File Name & Source & Last update\\  
+     \hline\hline
+    Monthly median sold houses prices per SA2 (2011 format) & APM - Timeseries Property Data (SA2) 01/03/1994 - 31/10/2020 & Aurin & 21/06/2019\\
+    \hline
+\end{tabular}
+
